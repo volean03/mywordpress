@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/skincare/feed/" rel="self" type="application/rss+xml" />
 	<link>https://volean03.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 03 Oct 2022 03:50:04 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 04 Oct 2022 08:30:12 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -34,18 +34,12 @@ This is a simple product.
 
 </div>
 <form class="cart" action="https://glowing.g5plus.net/elementor/product/supreme-polishing-treatment/" enctype="multipart/form-data" method="post">
-<div class="g5shop__add-to-cart-quantity-wrap"><label class="g5shop__quantity-label">Quantity</label>
-<div class="g5shop__add-to-cart-quantity">
-<div class="g5shop__quantity">
-<div class="g5shop__quantity-inner"><input id="quantity_633a153fd143c" class="input-text qty text" title="Qty" max="" min="1" name="quantity" step="1" type="number" value="1" /></div>
-</div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="112">Add To Cart</button></div>
-</div>
+<div class="g5shop__add-to-cart-quantity-wrap"></div>
 <div class="g5shop__single-product-actions g5shop__product-list-actions">
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-112  wishlist-fragment on-first-load" data-fragment-ref="112" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:&#34;112&#34;,&#34;parent_product_id&#34;:&#34;112&#34;,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;shortcode&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist" href="https://glowing.g5plus.net/elementor/product/supreme-polishing-treatment/?add_to_wishlist=112&#38;_wpnonce=bb8b9b5722" rel="nofollow" data-product-id="112" data-product-type="simple" data-original-product-id="112" data-title="Add to wishlist">Add to wishlist</a></div>
+
+&#160;
+
 </div>
-<a class="compare" title="" href="https://glowing.g5plus.net/elementor?action=yith-woocompare-add-product&#38;id=112" rel="nofollow" data-product_id="112" data-original-title="">Compare</a></div>
 </form>]]></description>
 										<content:encoded><![CDATA[<div class="g5shop__tabs-container">
 <ul class="nav nav-tabs" role="tablist">
@@ -87,18 +81,12 @@ This is a simple product.
 
 </div>
 <form class="cart" action="https://glowing.g5plus.net/elementor/product/supreme-moisture-mask/" enctype="multipart/form-data" method="post">
-<div class="g5shop__add-to-cart-quantity-wrap"><label class="g5shop__quantity-label">Quantity</label>
-<div class="g5shop__add-to-cart-quantity">
-<div class="g5shop__quantity">
-<div class="g5shop__quantity-inner"><input id="quantity_633a153b5ea9a" class="input-text qty text" title="Qty" max="" min="1" name="quantity" step="1" type="number" value="1" /></div>
-</div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="113">Add To Cart</button></div>
-</div>
+<div class="g5shop__add-to-cart-quantity-wrap"></div>
 <div class="g5shop__single-product-actions g5shop__product-list-actions">
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-113  wishlist-fragment on-first-load" data-fragment-ref="113" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:&#34;113&#34;,&#34;parent_product_id&#34;:&#34;113&#34;,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;shortcode&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist" href="https://glowing.g5plus.net/elementor/product/supreme-moisture-mask/?add_to_wishlist=113&#38;_wpnonce=bb8b9b5722" rel="nofollow" data-product-id="113" data-product-type="simple" data-original-product-id="113" data-title="Add to wishlist">Add to wishlist</a></div>
+
+&#160;
+
 </div>
-<a class="compare" title="" href="https://glowing.g5plus.net/elementor?action=yith-woocompare-add-product&#38;id=113" rel="nofollow" data-product_id="113" data-original-title="">Compare</a></div>
 </form>]]></description>
 										<content:encoded><![CDATA[<div class="g5shop__single-product-tabs layout-2">
 <div class="g5shop__tabs-container">
@@ -143,21 +131,7 @@ This is a simple product.
 
 This is a simple product.
 
-</div>
-<form class="cart" action="https://glowing.g5plus.net/elementor/product/vital-eye-cream/" enctype="multipart/form-data" method="post">
-<div class="g5shop__add-to-cart-quantity-wrap"><label class="g5shop__quantity-label">Quantity</label>
-<div class="g5shop__add-to-cart-quantity">
-<div class="g5shop__quantity">
-<div class="g5shop__quantity-inner"><input id="quantity_633a153e62fbd" class="input-text qty text" title="Qty" max="" min="1" name="quantity" step="1" type="number" value="1" /></div>
-</div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="114">Add To Cart</button></div>
-</div>
-<div class="g5shop__single-product-actions g5shop__product-list-actions">
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-114  wishlist-fragment on-first-load" data-fragment-ref="114" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:&#34;114&#34;,&#34;parent_product_id&#34;:&#34;114&#34;,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;shortcode&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist" href="https://glowing.g5plus.net/elementor/product/vital-eye-cream/?add_to_wishlist=114&#38;_wpnonce=bb8b9b5722" rel="nofollow" data-product-id="114" data-product-type="simple" data-original-product-id="114" data-title="Add to wishlist">Add to wishlist</a></div>
-</div>
-<a class="compare" title="" href="https://glowing.g5plus.net/elementor?action=yith-woocompare-add-product&#38;id=114" rel="nofollow" data-product_id="114" data-original-title="">Compare</a></div>
-</form>]]></description>
+</div>]]></description>
 										<content:encoded><![CDATA[<div class="g5shop__single-product-tabs layout-2">
 <div class="g5shop__tabs-container">
 <ul class="nav nav-tabs" role="tablist">
@@ -203,18 +177,12 @@ This is a simple product.
 
 </div>
 <form class="cart" action="https://glowing.g5plus.net/elementor/product/perfecting-facial-oil/" enctype="multipart/form-data" method="post">
-<div class="g5shop__add-to-cart-quantity-wrap"><label class="g5shop__quantity-label">Quantity</label>
-<div class="g5shop__add-to-cart-quantity">
-<div class="g5shop__quantity">
-<div class="g5shop__quantity-inner"><input id="quantity_6339ccdd2f562" class="input-text qty text" title="Qty" max="" min="1" name="quantity" step="1" type="number" value="1" /></div>
-</div>
-<button class="single_add_to_cart_button button alt" name="add-to-cart" type="submit" value="121">Add To Cart</button></div>
-</div>
+<div class="g5shop__add-to-cart-quantity-wrap"></div>
 <div class="g5shop__single-product-actions g5shop__product-list-actions">
-<div class="yith-wcwl-add-to-wishlist add-to-wishlist-121  wishlist-fragment on-first-load" data-fragment-ref="121" data-fragment-options="{&#34;base_url&#34;:&#34;&#34;,&#34;in_default_wishlist&#34;:false,&#34;is_single&#34;:true,&#34;show_exists&#34;:false,&#34;product_id&#34;:&#34;121&#34;,&#34;parent_product_id&#34;:&#34;121&#34;,&#34;product_type&#34;:&#34;simple&#34;,&#34;show_view&#34;:true,&#34;browse_wishlist_text&#34;:&#34;Browse wishlist&#34;,&#34;already_in_wishslist_text&#34;:&#34;The product is already in your wishlist!&#34;,&#34;product_added_text&#34;:&#34;Product added!&#34;,&#34;heading_icon&#34;:&#34;fa-heart-o&#34;,&#34;available_multi_wishlist&#34;:false,&#34;disable_wishlist&#34;:false,&#34;show_count&#34;:false,&#34;ajax_loading&#34;:false,&#34;loop_position&#34;:&#34;shortcode&#34;,&#34;item&#34;:&#34;add_to_wishlist&#34;}">
-<div class="yith-wcwl-add-button"><a class="add_to_wishlist single_add_to_wishlist" href="https://glowing.g5plus.net/elementor/product/perfecting-facial-oil/?add_to_wishlist=121&#38;_wpnonce=bb8b9b5722" rel="nofollow" data-product-id="121" data-product-type="simple" data-original-product-id="121" data-title="Add to wishlist">Add to wishlist</a></div>
+
+&#160;
+
 </div>
-<a class="compare" title="" href="https://glowing.g5plus.net/elementor?action=yith-woocompare-add-product&#38;id=121" rel="nofollow" data-product_id="121" data-original-title="">Compare</a></div>
 </form>]]></description>
 										<content:encoded><![CDATA[<div class="g5shop__tabs-container">
 <ul class="nav nav-tabs" role="tablist">
