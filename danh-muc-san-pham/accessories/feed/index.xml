@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/accessories/feed/" rel="self" type="application/rss+xml" />
 	<link>https://volean03.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 04 Oct 2022 08:18:10 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Oct 2022 11:52:48 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Double Zip Bag Norway</title>
+		<link>https://volean03.github.io/mywordpress/san-pham/double-zip-bag-norway/</link>
+					<comments>https://volean03.github.io/mywordpress/san-pham/double-zip-bag-norway/#respond</comments>
+		
+		<dc:creator><![CDATA[volean]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 11:48:54 +0000</pubDate>
+				<guid isPermaLink="false">https://volean03.github.io/mywordpress/?post_type=product&#038;p=596</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://volean03.github.io/mywordpress/san-pham/double-zip-bag-norway/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Detangling Comb</title>
 		<link>https://volean03.github.io/mywordpress/san-pham/detangling-comb-2/</link>
 					<comments>https://volean03.github.io/mywordpress/san-pham/detangling-comb-2/#respond</comments>

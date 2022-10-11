@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/bodycare/feed/" rel="self" type="application/rss+xml" />
 	<link>https://volean03.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 04 Oct 2022 08:28:00 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 10 Oct 2022 11:37:12 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,23 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
+		<title>Enriched hand and body wash</title>
+		<link>https://volean03.github.io/mywordpress/san-pham/enriched-hand-and-body-wash/</link>
+					<comments>https://volean03.github.io/mywordpress/san-pham/enriched-hand-and-body-wash/#respond</comments>
+		
+		<dc:creator><![CDATA[volean]]></dc:creator>
+		<pubDate>Mon, 10 Oct 2022 11:28:37 +0000</pubDate>
+				<guid isPermaLink="false">https://volean03.github.io/mywordpress/?post_type=product&#038;p=589</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://volean03.github.io/mywordpress/san-pham/enriched-hand-and-body-wash/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Natural Coconut Cleansing Oil</title>
 		<link>https://volean03.github.io/mywordpress/san-pham/natural-coconut-cleansing-oil/</link>
 					<comments>https://volean03.github.io/mywordpress/san-pham/natural-coconut-cleansing-oil/#respond</comments>
