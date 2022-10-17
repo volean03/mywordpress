@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Haircare &#8211; voleanWordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/haircare/feed/" rel="self" type="application/rss+xml" />
+	<link>https://volean03.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 17 Oct 2022 12:55:50 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>HairSkin</title>
+		<link>https://volean03.github.io/mywordpress/san-pham/hairskin/</link>
+					<comments>https://volean03.github.io/mywordpress/san-pham/hairskin/#respond</comments>
+		
+		<dc:creator><![CDATA[volean]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2022 11:59:38 +0000</pubDate>
+				<guid isPermaLink="false">https://volean03.github.io/mywordpress/?post_type=product&#038;p=721</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></description>
+										<content:encoded><![CDATA[<ul>
+<li><a href="https://glowing.g5plus.net/elementor/product/sideway-travel-case-set/#tab-description">Description</a></li>
+<li><a href="https://glowing.g5plus.net/elementor/product/sideway-travel-case-set/#tab-additional_information" data-toggle="tab" aria-controls="tab-additional_information" aria-selected="false">Additional information</a></li>
+<li><a href="https://glowing.g5plus.net/elementor/product/sideway-travel-case-set/#tab-reviews" data-toggle="tab" aria-controls="tab-reviews" aria-selected="false">Reviews (1)</a></li>
+</ul>
+<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://volean03.github.io/mywordpress/san-pham/hairskin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
